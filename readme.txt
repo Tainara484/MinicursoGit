@@ -1,3 +1,3 @@
-Minicurso Git
+Minicurso Git iFSP
 ---
-Repositório para teste minicurso Git
+Repositório para teste minicurso Git.
